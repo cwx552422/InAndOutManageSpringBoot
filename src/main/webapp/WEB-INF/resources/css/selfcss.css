@@ -1,0 +1,33 @@
+.tablestyle_title{
+	/*height: 20px; font-style: normal; font-variant: normal; font-weight: bold; font-size: 16px;letter-spacing: 2px; text-align: middle; border-top: 2px solid #ff7300; padding-left: 10px; background-color: #f0f0f0;text-align:center;*/
+	background:#6795B4;
+	padding:5px;
+	text-align:left;
+	color:#FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	height: 20px;
+	font-style: normal; font-variant: normal; font-weight: bold; font-size: 16px;letter-spacing: 2px; padding-left: 10px; 
+}
+
+.CContent{
+	border-top: 1px solid #5F8FB0;
+	border-right: 1px solid #5F8FB0;
+	border-bottom: 1px solid #5F8FB0;
+	border-left: 1px solid #5F8FB0;
+	background-color: #FFFFFF;
+
+}
+
+.CPanel{
+ padding:5px;
+ font-size:12px;
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.CTitle{
+	background:#6795B4;
+	padding:5px;
+	text-align:left;
+	color:#FFFFFF;
+	font-size:13px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}

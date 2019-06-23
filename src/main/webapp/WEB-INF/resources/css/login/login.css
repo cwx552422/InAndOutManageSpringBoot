@@ -1,0 +1,84 @@
+body {
+	font-family: "宋体";
+	font-size: 14px;
+	color: #315DBD;
+	background-image: url(../../img/login/background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: right top;
+}
+
+
+
+#div1 {
+	width: 580px;
+	height: 330px;
+	border:solid,1px,black;
+	margin-top: 220px;
+	margin-left: 550px;
+}
+
+.user {
+	width: 299px;
+	height: 37px;
+	background: url(../../img/login/loginuser.png) no-repeat;
+	border: none;
+	line-height: 40px;
+	padding-left: 44px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #90a2bc;
+}
+
+.password {
+	width: 299px;
+	height: 37px;
+	background: url(../../img/login/loginpassword.png) no-repeat;
+	border: none;
+	line-height: 40px;
+	padding-left: 44px;
+	font-size: 14px;
+	color: #90a2bc;
+}
+
+.testify {
+	width: 100px;
+	height: 37px;
+	background: url(../../img/login/loginpassword.png) no-repeat;
+	border: none;
+	line-height: 40px;
+	padding-left: 44px;
+	font-size: 14px;
+	color: #90a2bc;
+}
+
+.code {
+	width: 92px;
+	height: 37px;
+	font-size: 14px;
+	font-weight: bold;
+	color: #14557A;
+	text-align: center;
+	cursor: pointer;
+	line-height: 33px;
+}
+
+.loginbtn1 {
+	width: 85px;
+	height: 37px;
+	font-size: 14px;
+	font-weight: bold;
+	cursor: pointer;
+	color: #14557A;
+	line-height: 33px;
+}
+.loginbtn2 {
+	width: 85px;
+	height: 37px;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	cursor: pointer;
+	color: #14557A;
+	line-height: 33px;
+	text-align: center;
+}

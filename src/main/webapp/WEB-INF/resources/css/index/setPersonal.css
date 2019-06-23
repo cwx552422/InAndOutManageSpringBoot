@@ -1,0 +1,28 @@
+.modal-body ul{list-style:none;list-style-image:none;margin:0;padding:0}
+#login_form input{vertical-align:middle;font-family:'Microsoft Yahei'}
+#login_form input[type=text]::-ms-clear,input[type=tel]::-ms-clear,input[type=number]::-ms-clear{display:none}
+#login_form input:-webkit-autofill{-webkit-box-shadow:0 0 0 1000px white inset !important}
+#setModal .col-left,#setModal .col-right{float:left}
+#setModal .modal-content{border-radius:0.5}
+#setModal .col-left{width:225px;height:330px;}
+#setModal #peopleimg{width:90%;height:90%;margin-top:5px;margin-left:10px}
+#setModal .col-right{width:313px;height:319px;color:#b2b2b2}
+#setModal .form-group{margin-bottom:10px}
+#setModal .modal-body{height:263px}
+#setModal .tips-error{padding:2px 10px;margin-top:10px;display:none}
+#setModal .globalLogin{height:47px;background:#01c26f;color:#fff;font-size:14px;background:-webkit-linear-gradient(#1fd783,#1fd06b);background:-o-linear-gradient(#1fd783,#1fd06b);background:-moz-linear-gradient(#1fd783,#1fd06b);background:linear-gradient(#1fd783,#1fd06b)}
+.modal-header{color:#5ecfba}
+#setModal .modal-content:before,#setModal .modal-content:after{content:'';display:table;clear:both}
+
+#setpwdModal .modal-content{border-radius:0.5}
+#setpwdModal .form-group{margin-bottom:10px}
+#setpwdModal .modal-body{height:300px}
+#setpwdModal .tips-error{padding:2px 10px;margin-top:10px;display:none}
+#setpwdModal .globalLogin{height:47px;background:#01c26f;color:#fff;font-size:14px;background:-webkit-linear-gradient(#1fd783,#1fd06b);background:-o-linear-gradient(#1fd783,#1fd06b);background:-moz-linear-gradient(#1fd783,#1fd06b);background:linear-gradient(#1fd783,#1fd06b)}
+#setpwdModal .modal-content:before,#setModal .modal-content:after{content:'';display:table;clear:both}
+#setpedModal #pwdspan{color:blue;}
+#peopleimg{
+	width:180px;
+	height:200px;
+	margin-left:100px;
+}

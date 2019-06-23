@@ -1,0 +1,106 @@
+body {
+	background-image: url(../../img/index/background4.jpg);
+	background-repeat: no-repeat;
+}
+
+#headtext {
+	margin-left: 85px;
+	letter-spacing: 4px;
+	color: whitesmoke;
+}
+
+#div2 {
+	margin-top: 30px;
+	width: 240px;
+	margin-left: 260px;
+}
+
+#people {
+	width: 80px;
+	margin-top: -3px;
+}
+
+#people table td {
+	padding: 5px;
+	color: white;
+}
+
+#div3 {
+	margin-top: -10px;
+	margin-left: -100px;
+	width: 190px;
+	height: 610px;
+}
+
+#left {
+	width:176px ;
+	margin-top: 50px;
+	height: 500px;
+	overflow: auto;
+	position: relative;
+}
+
+#middle {
+	margin-top: 7px;
+	margin-left: 19px;
+	width: 918px;
+	height: 524px;
+	border-radius: 5px;
+	border: solid 1px black;
+}
+
+#mid {
+	font-family: "微软雅黑";
+	font-size: 60px;
+	margin-top: 130px;
+	margin-left: 290px;
+	color: #354dc7;
+	letter-spacing: 5px;
+}
+
+#img12 {
+	width: 75px;
+	height: 60px;
+}
+
+#datepicker {
+	width: 173px;
+	padding-top: 45px;
+	padding-left: 6px;
+}
+#message{
+	width: 160px;
+	margin-left: 20px;
+	margin-top: 20px;
+	font-family: "微软雅黑";
+	font-size: 16px;	
+}
+#showMessage{
+	width: 195px;
+	height: 165px;
+	margin-top: 5px;
+	margin-left: -3px;
+	border: 1px solid cornflowerblue;
+	border-radius: 5px;
+}
+#messageImg{
+	width: 25px;
+	height: 25px;	
+}
+#right{
+	margin-left: -8px;
+}
+#bottom{
+	width: 900px;
+	margin-top:-50px;
+	margin-left: 110px;
+	text-align: center;
+}
+.leftLittle{
+	width: 22px;
+	height: 22px;
+}
+.panel-body a{
+	margin-left: 22px;
+}
+
